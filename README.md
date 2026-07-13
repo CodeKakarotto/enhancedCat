@@ -16,8 +16,8 @@ The commands combined in this tool are:
 
 For this project, I used AI to help understand Linux commands, plan the functionality of my fancy command, identify possible test cases, and find edge cases that could cause errors.
 
-AI helped explain how the cat and wc commands work and suggested tests such as running the program with a valid file, an empty file, a missing filename, and a file that does not exist.
+AI helped explain how the cat and wc commands work and recommended tests such as running the program with a valid file, an empty file, a missing filename, and a file that does not exist.
 
-I independently wrote the Node.js implementation, tested the program, reviewed the results, and made decisions about how to keep the command simple while meeting the assignment requirements.
+I wrote the Node.js implementation, tested the program, reviewed the results, and made decisions about how to keep the command simple while meeting the assignment requirements.
 
 
